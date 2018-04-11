@@ -1,0 +1,7 @@
+D:\PRO1\Penzija\Penzija\bin\Debug\Penzija.exe.config
+D:\PRO1\Penzija\Penzija\bin\Debug\Penzija.exe
+D:\PRO1\Penzija\Penzija\bin\Debug\Penzija.pdb
+D:\PRO1\Penzija\Penzija\obj\Debug\Penzija.csprojResolveAssemblyReference.cache
+D:\PRO1\Penzija\Penzija\obj\Debug\Penzija.csproj.CoreCompileInputs.cache
+D:\PRO1\Penzija\Penzija\obj\Debug\Penzija.exe
+D:\PRO1\Penzija\Penzija\obj\Debug\Penzija.pdb
